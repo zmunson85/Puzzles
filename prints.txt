@@ -1,0 +1,141 @@
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+Charlie
+Tiffany
+Geneva
+Sydney
+
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+Program.cs(113,13): error CS0103: The name 'coinToss' does not exist in the current context [C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\puzzles.csproj]
+
+The build failed. Fix the build errors and run again.
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+Tossing A Coin...
+You Flipped Tails! # of Tails: 1
+Tossing A Coin...
+You Flipped Heads! # of Heads: 1
+Tossing A Coin...
+You Flipped Heads! # of Heads: 2
+Tossing A Coin...
+You Flipped Heads! # of Heads: 3
+Tossing A Coin...
+You Flipped Heads! # of Heads: 4
+Tossing A Coin...
+You Flipped Heads! # of Heads: 5
+Tossing A Coin...
+You Flipped Heads! # of Heads: 6
+Tossing A Coin...
+You Flipped Heads! # of Heads: 7
+Tossing A Coin...
+You Flipped Heads! # of Heads: 8
+Tossing A Coin...
+You Flipped Heads! # of Heads: 9
+Tossing A Coin...
+You Flipped Heads! # of Heads: 10
+Tossing A Coin...
+You Flipped Heads! # of Heads: 11
+Tossing A Coin...
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+24
+11
+16
+7
+5
+23
+24
+5
+17
+19
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+9
+12
+10
+9
+9
+24
+10
+10
+9
+20
+here is the min 5
+here is the max 24
+here is the average 12
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+Program.cs(55,18): error CS1002: ; expected [C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\puzzles.csproj]
+
+The build failed. Fix the build errors and run again.
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+Program.cs(55,18): error CS1002: ; expected [C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\puzzles.csproj]
+
+The build failed. Fix the build errors and run again.
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run Program.cs
+Tossing A Coin...
+You Flipped Heads! # of Heads: 1
+Tossing A Coin...
+You Flipped Tails! # of Tails: 1
+Tossing A Coin...
+You Flipped Heads! # of Heads: 2
+Tossing A Coin...
+You Flipped Heads! # of Heads: 3
+Tossing A Coin...
+You Flipped Heads! # of Heads: 4
+Tossing A Coin...
+You Flipped Tails! # of Tails: 2
+Tossing A Coin...
+You Flipped Heads! # of Heads: 5
+Tossing A Coin...
+You Flipped Heads! # of Heads: 6
+Tossing A Coin...
+You Flipped Tails! # of Tails: 3
+Tossing A Coin...
+You Flipped Tails! # of Tails: 4
+Tossing A Coin...
+You Flipped Tails! # of Tails: 5
+Tossing A Coin...
+You Flipped Tails! # of Tails: 6
+Tossing A Coin...
+You Flipped Heads! # of Heads: 7
+Tossing A Coin...
+You Flipped Heads! # of Heads: 8
+Tossing A Coin...
+You Flipped Tails! # of Tails: 7
+Tossing A Coin...
+You Flipped Heads! # of Heads: 9
+Tossing A Coin...
+You Flipped Tails! # of Tails: 8
+Tossing A Coin...
+You Flipped Heads! # of Heads: 10
+Tossing A Coin...
+You Flipped Heads! # of Heads: 11
+Total # of Tails = 8
+Total # of Heads = 11
+ratio of heads 1.7272727272727273
+
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>cd "c:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles\" 
+&& dotnet run tempCodeRunnerFile.cs
+Charlie
+Tiffany
+
+Geneva
+Sydney
+
+C:\Users\Owner\OneDrive\Desktop\Dojo_Assignments\csharp\puzzles>
